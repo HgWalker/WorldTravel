@@ -1,0 +1,116 @@
+@charset "utf-8";
+body {
+    margin: 0;
+    background-color: #43EAFF;
+    color: #362F2F;
+	font-family: lucida "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif";
+	font-size: 62.5%;
+	margin: 0px;
+}
+p {
+	font-size:  1.4em;
+	line-height: 1.4em;
+}
+h1 {
+	font-size: 2.4em;
+	padding-top: 10px;
+	color: #1748AE;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h3{
+
+	font-size:  1.9em;
+	text-align:  center;
+	padding:  10px 0px;
+	color: #5D85D8;
+}
+
+.center{
+	text-align: center;
+}
+
+#container {
+	width: 1200px;
+	margin: 0px auto;
+	background-color: #FFFFFF;
+}
+#banner {
+    background-color: #1748AE;
+	text-align:  center;
+}
+#menu   {
+	background-color: #000000;
+	color: #FAFAFA;
+    margin-top: 5px;
+    margin-bottom: 5px;
+	font-size: 1.5em;
+}
+#australia {
+	margin: 10px;
+    padding: 5px;
+    width: 270px;
+	float: left;
+}
+#costarica {
+	margin: 10px;
+    padding: 5px;
+    width: 270px;
+	float: left;
+}
+#greece {
+	margin: 10px;
+    padding: 5px;
+    width: 270px;
+	float: left;
+}
+#ireland {
+	margin: 10px;
+    padding: 5px;
+    width: 270px;
+	float: left;
+}
+#main_text{
+	margin: 10px;
+	clear: left
+}
+#footer {
+    background-color: #1748AE;
+	text-align:  center;
+	height:  26px;
+	padding: 10px;
+	color: #ffffff;
+}
+h4 a:link {
+	color: orangered;
+	text-align: center;
+	font-size: 2em;
+	display:  block;
+}
+
+h4 a:visited {
+	color: orangered;
+	text-decoration: none;
+}
+
+h4 a:hover {
+	color: #1748AE;
+	text-decoration: none;
+}
+#menu a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+#menu a:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}#menu a:hover {
+	color: orangered;
+	text-decoration: none;
+}
+
+
+h1, h2, h3, p {
+	margin: 0px;
+}
